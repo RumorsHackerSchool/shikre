@@ -9,7 +9,7 @@ if __name__ == '__main__':
     print(a)
     print(b)
     #for i in range(10):
-    for i in range(10**9):
+    for i in range(11):
         a = a + b
         b = a + b
         print(a)
